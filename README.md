@@ -85,19 +85,12 @@ A blackjack simulation designed to help beginner dealers learn the game from the
 
 *Focus: desktop applications and implementing game logic.*
 
-### 🃏 [Skill Heroes Card App](https://github.com/OrlowskiDaniel/skill-heros-card-app)
-**Python · API Integration · CSV**
+### 🃏 [World Battle](https://github.com/OrlowskiDaniel/skill-heros-card-app)
+**PHP · Laravel**
 
-A Python application that retrieves card information from the Scryfall API, processes and sorts the data, and exports it to CSV format.
+A 1-versus-1 web game where players compete to guess a secret word. Built entirely with Laravel, including the game logic for determining the outcome.
 
-*Focus: API consumption, data processing, and automation.*
-
-### 🎮 [Lootr](https://github.com/OrlowskiDaniel/Lootr)
-**JavaScript · Web Development**
-
-A social media platform concept for gamers.
-
-*Focus: building web applications for a specific community.*
+*Focus: web application development, game logic, and backend development with Laravel.*
 
 ---
 

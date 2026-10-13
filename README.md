@@ -85,7 +85,7 @@ A blackjack simulation designed to help beginner dealers learn the game from the
 
 *Focus: desktop applications and implementing game logic.*
 
-### 🃏 [World Battle](https://github.com/OrlowskiDaniel/skill-heros-card-app)
+### 🎮 [World Battle](https://github.com/OrlowskiDaniel/skill-heros-card-app)
 **PHP · Laravel**
 
 A 1-versus-1 web game where players compete to guess a secret word. Built entirely with Laravel, including the game logic for determining the outcome.

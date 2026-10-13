@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=58A6FF&width=650&lines=Software+Development+Student;Building+web+and+desktop+applications;Exploring+AI+and+LLM+integration;Learning+by+building+real+projects)](https://git.io/typing-svg)
 
+![Working Developer](assets/Working-Computer-Science-gif.gif)
+
 I'm a third-year Software Development student at ROC Nijmegen in the Netherlands, interested in backend development, application architecture, and building software that solves real problems.
 
 I've worked on web applications, standalone desktop software, API integrations, and AI-powered tools. I also completed a software development internship at Rouse2Action, where I worked on the company's website and collaborated directly with the product owner.
@@ -16,6 +18,10 @@ I've worked on web applications, standalone desktop software, API integrations, 
 ---
 
 ## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,php,cs,js,py,ts,laravel,react,vue,nextjs,dotnet,ollama,supabase,firebase,git,github,visualstudio,vscode" alt="Tech Stack Icons" />
+</p>
 
 ### Languages
 
